@@ -1,4 +1,4 @@
-# logatron-io
+# The Logatron Project
 Landing repo for the logatron.io project
 
 ## Motivation
@@ -8,4 +8,6 @@ Landing repo for the logatron.io project
 >- and that **supports daily and special aspects of the practice**
 >- so that **we have up-to-date tools**
 >- and so that **we can promote our hobby and grow our community**
+
+## Roadmap
 
